@@ -6,3 +6,5 @@
 1. 시간여행 (checkout)
 1. 브랜치 이동 (reset current branch)
 1. 리셋 취소 (git reset --hard HEAD@{1})
+1. 복제본 생성(another windwow of vscode)
+
