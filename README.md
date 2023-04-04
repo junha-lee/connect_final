@@ -5,3 +5,4 @@
 1. README.md 파일 커밋
 1. 시간여행 (checkout)
 1. 브랜치 이동 (reset current branch)
+1. 리셋 취소 (git reset --hard HEAD@{1})
